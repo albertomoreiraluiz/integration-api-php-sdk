@@ -17,6 +17,10 @@ Para utilizar a SDK é necessário:
 
 Você deve definir que ambiente irá utilizar e inserir suas credenciais para autenticação e assim poder consumir todos os recursos disponíveis.
 
+## Instalação
+Utilize o composer com o seguinte comando:
+composer require tamojuno/integration-api-php-sdk:dev-main
+
 ## Exemplos
 O projeto possui um compilado de exemplos no diretório `/examples` que podem direcionar os primeiros passos na utilização da SDK.
 
